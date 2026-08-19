@@ -4,20 +4,25 @@
 
 I'm Brian Gomez — a developer and builder who turns the systems I need in my own life into real software, then documents all of it in public. I build local-first AI tooling, mobile and web apps, and the workflow that lets one person ship like a team: an AI-native development stack (Claude Code + Codex) with its own skills, agents, and guardrails. Right now I'm building **Crucible** — a 91-day discipline app with the structure of a game — and **Pantheon**, a local-first agentic OS that runs my projects and second brain on my own machines. I'm obsessed with local AI, machine-as-code, and the idea that the best way to prove you can build is to show the builds.
 
+<!-- Badges are parked until they mean something. Re-enable in this order:
+     1) FOLLOW / STARS  — once the counts are non-zero (zeros read worse than no badge at all).
+     2) briangomez.com  — once the site is live on Cloudflare Pages; at the same time, re-link every
+                          project name below to https://briangomez.com/#workshop.
+     3) YouTube / X     — once the handles exist; replace YOUR_HANDLE (and the YouTube channel id).
+     Tracked in the Envoy repo's ROADMAP under "Active to-dos".
 <p align="left">
   <a href="https://github.com/BrianZodd?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/BrianZodd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/BrianZodd?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrianZodd?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <!-- Uncomment when these are live:
   <a href="https://briangomez.com">
     <img alt="briangomez.com" title="My website" src="https://img.shields.io/badge/briangomez.com-Website-7C130D?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.youtube.com/@YOUR_HANDLE?sub_confirmation=1">
     <img alt="YouTube" title="Subscribe on YouTube" src="https://img.shields.io/badge/SUBSCRIBE-YouTube-E05D44?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630"/></a>
   <a href="https://x.com/YOUR_HANDLE">
     <img alt="Follow on X" title="Follow me on X" src="https://img.shields.io/badge/Follow-%40YOUR_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  -->
 </p>
+-->
 
 ---
 
