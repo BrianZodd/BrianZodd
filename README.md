@@ -27,33 +27,33 @@ I'm Brian Gomez — a developer and builder who turns the systems I need in my o
 
 # Current Projects
 
-> These repos are private while they're in active development. Every project name links to its card on **[brianzodd.com](https://brianzodd.com/#workshop)** — stack, screenshots, and honest build status.
+> These repos are private while they're in active development. Every project name links to its card on **[brianzodd.com](https://brianzodd.com/work/)** — stack, screenshots, and honest build status.
 
 ## Flagship
 
-* 🏛️ [**Crucible**](https://brianzodd.com/#crucible-app) — A habits-and-accountability app: *"get your life together" with the structure of a video game and the aesthetic of Greco-Roman discipline.* A flagship 91-day program of daily trials (sleep, training, reading, meditation…), streaks, XP, levels, achievements, and a champion you forge over time. React Native (Expo) + Supabase, Android + iOS. **In development.**
+* 🏛️ [**Crucible**](https://brianzodd.com/work/#crucible-app) — A habits-and-accountability app: *"get your life together" with the structure of a video game and the aesthetic of Greco-Roman discipline.* A flagship 91-day program of daily trials (sleep, training, reading, meditation…), streaks, XP, levels, achievements, and a champion you forge over time. React Native (Expo) + Supabase, Android + iOS. **In development.**
 
 ## AI Systems
 
-* 🧠 [**Pantheon**](https://brianzodd.com/#pantheon) — A local-first **agentic OS**: project pipeline, second brain, and AI harness in one installable web app. Raw dumps in, triaged projects out; local models first (Ollama / LM Studio), cloud keys optional. FastAPI + React/TypeScript PWA with streaming local-model chat, a browsable vault, skills + an agent crew, an MCP client, automations, and a Life-OS layer.
+* 🧠 [**Pantheon**](https://brianzodd.com/work/#pantheon) — A local-first **agentic OS**: project pipeline, second brain, and AI harness in one installable web app. Raw dumps in, triaged projects out; local models first (Ollama / LM Studio), cloud keys optional. FastAPI + React/TypeScript PWA with streaming local-model chat, a browsable vault, skills + an agent crew, an MCP client, automations, and a Life-OS layer.
 
-* 🛰️ [**Nova**](https://brianzodd.com/#nova) — My AI workspace: the versioned system that defines how every AI harness works for me. A 30-skill stack, delegation agent tiers, guardrail hooks, session-budget gates, and a live bridge that lets Claude Code and Codex share one source of truth — single-sourced, drift-checked, evolving daily.
+* 🛰️ [**Nova**](https://brianzodd.com/work/#nova) — My AI workspace: the versioned system that defines how every AI harness works for me. A 30-skill stack, delegation agent tiers, guardrail hooks, session-budget gates, and a live bridge that lets Claude Code and Codex share one source of truth — single-sourced, drift-checked, evolving daily.
 
-* 📚 [**Vulcan**](https://brianzodd.com/#vulcan) — A lifelong second brain in plain markdown: the external memory of what I know, believe, own, and plan — filed, interviewed, and challenged by an AI agent, with the reasoning behind every change kept in git. Obsidian-browsable; the files are the product.
+* 📚 [**Vulcan**](https://brianzodd.com/work/#vulcan) — A lifelong second brain in plain markdown: the external memory of what I know, believe, own, and plan — filed, interviewed, and challenged by an AI agent, with the reasoning behind every change kept in git. Obsidian-browsable; the files are the product.
 
 ## Apps & Platforms
 
-* 🥗 [**Avalon**](https://brianzodd.com/#avalon) — A health-first nutrition tracker: micronutrient-deep tracking, an ingredient-quality lens, and AI-native logging (voice, barcode, meal templates). Mobile-first PWA with a native future. TypeScript + Supabase.
+* 🥗 [**Avalon**](https://brianzodd.com/work/#avalon) — A health-first nutrition tracker: micronutrient-deep tracking, an ingredient-quality lens, and AI-native logging (voice, barcode, meal templates). Mobile-first PWA with a native future. TypeScript + Supabase.
 
-* 🚀 [**Ares**](https://brianzodd.com/#ares) — A business launchpad + AI knowledge vault: research-grounded venture templates, a stage-then-eject pipeline that births new projects, and a living wiki of tools and AI-industry knowledge (a ~980-entry resource atlas).
+* 🚀 [**Ares**](https://brianzodd.com/work/#ares) — A business launchpad + AI knowledge vault: research-grounded venture templates, a stage-then-eject pipeline that births new projects, and a living wiki of tools and AI-industry knowledge (a ~980-entry resource atlas).
 
 ## Content & Brand
 
-* 🎬 [**Envoy**](https://brianzodd.com/#envoy) — The content-operations hub behind my personal brand: media library, ingest / thumbnail / research pipelines, and per-platform strategy. DaVinci Resolve is the edit bay; Envoy is everything around it.
+* 🎬 [**Envoy**](https://brianzodd.com/work/#envoy) — The content-operations hub behind my personal brand: media library, ingest / thumbnail / research pipelines, and per-platform strategy. DaVinci Resolve is the edit bay; Envoy is everything around it.
 
 ## Machine as Code
 
-* 🖥️ [**Laptop_System / PC_System**](https://brianzodd.com/#machine-as-code) — Both of my Windows machines as repos: a tiling-WM desktop (komorebi + YASB + Windhawk), shell mods, power modes, app manifests, and a map-driven backup/restore lane. New machine → clone → restore.
+* 🖥️ [**Laptop_System / PC_System**](https://brianzodd.com/work/#machine-as-code) — Both of my Windows machines as repos: a tiling-WM desktop (komorebi + YASB + Windhawk), shell mods, power modes, app manifests, and a map-driven backup/restore lane. New machine → clone → restore.
 
 ## Skills & Technologies
 
