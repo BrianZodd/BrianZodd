@@ -39,13 +39,13 @@ I'm Brian Gomez — a developer and builder who turns the systems I need in my o
 
 * 🛰️ [**Nova**](https://brianzodd.com/work/#nova) — My AI workspace: the versioned system that defines how every AI harness works for me. A 30-skill stack, delegation agent tiers, guardrail hooks, session-budget gates, and a live bridge that lets Claude Code and Codex share one source of truth — single-sourced, drift-checked, evolving daily.
 
-* 📚 [**Vulcan**](https://brianzodd.com/work/#vulcan) — A lifelong second brain in plain markdown: the external memory of what I know, believe, own, and plan — filed, interviewed, and challenged by an AI agent, with the reasoning behind every change kept in git. Obsidian-browsable; the files are the product.
+* 📚 [**Alfred**](https://brianzodd.com/work/#alfred) — A lifelong second brain in plain markdown: the external memory of what I know, believe, own, and plan — filed, interviewed, and challenged by an AI agent, with the reasoning behind every change kept in git. Obsidian-browsable; the files are the product.
 
 ## Apps & Platforms
 
 * 🥗 [**Avalon**](https://brianzodd.com/work/#avalon) — A health-first nutrition tracker: micronutrient-deep tracking, an ingredient-quality lens, and AI-native logging (voice, barcode, meal templates). Mobile-first PWA with a native future. TypeScript + Supabase.
 
-* 🚀 [**Ares**](https://brianzodd.com/work/#ares) — A business launchpad + AI knowledge vault: research-grounded venture templates, a stage-then-eject pipeline that births new projects, and a living wiki of tools and AI-industry knowledge (a ~980-entry resource atlas).
+* 🚀 [**Venture**](https://brianzodd.com/work/#venture) — A business launchpad + AI knowledge vault: research-grounded venture templates, a stage-then-eject pipeline that births new projects, and a living wiki of tools and AI-industry knowledge (a ~1,480-entry resource atlas).
 
 ## Content & Brand
 
