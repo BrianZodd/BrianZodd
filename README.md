@@ -2,7 +2,7 @@
 
 **`DEVELOPER`** **`BUILDER`** **`SYSTEMS THINKER`** **`AI-NATIVE`**
 
-I'm Brian Gomez — a developer and builder who turns the systems I need in my own life into real software, then documents all of it in public. I build local-first AI tooling, mobile and web apps, and the workflow that lets one person ship like a team: an AI-native development stack (Claude Code + Codex) with its own skills, agents, and guardrails. Right now I'm building **Crucible** — a 91-day discipline app with the structure of a game — and **Pantheon**, a local-first agentic OS that runs my projects and second brain on my own machines. I'm obsessed with local AI, machine-as-code, and the idea that the best way to prove you can build is to show the builds.
+I'm Brian Gomez — a developer and builder who turns the systems I need in my own life into real software, then documents all of it in public. I build local-first AI tooling, mobile and web apps, and the workflow that lets one person ship like a team: an AI-native development stack (Claude Code + Codex) with its own skills, agents, and guardrails. I'm obsessed with local AI, machine-as-code, and the idea that the best way to prove you can build is to show the builds.
 
 <p align="left">
   <a href="https://brianzodd.com">
@@ -29,10 +29,6 @@ I'm Brian Gomez — a developer and builder who turns the systems I need in my o
 
 > These repos are private while they're in active development. Every project name links to its own page on **[brianzodd.com](https://brianzodd.com/work/)** — what it is, the stack, screenshots, and a dated build log.
 
-## Flagship
-
-* 🏛️ [**Crucible**](https://usecrucible.app) — A habits-and-accountability app: *"get your life together" with the structure of a video game and the aesthetic of Greco-Roman discipline.* A flagship 91-day program of daily trials (sleep, training, reading, meditation…), streaks, XP, levels, achievements, and a champion you forge over time. React Native (Expo) + Supabase, Android + iOS. **In development.**
-
 ## AI Systems
 
 * 🧠 [**Pantheon**](https://brianzodd.com/work/pantheon/) — A local-first **agentic OS**: project pipeline, second brain, and AI harness in one installable web app. Raw dumps in, triaged projects out; local models first (Ollama / LM Studio), cloud keys optional. FastAPI + React/TypeScript PWA with streaming local-model chat, a browsable vault, skills + an agent crew, an MCP client, automations, and a Life-OS layer.
@@ -42,6 +38,8 @@ I'm Brian Gomez — a developer and builder who turns the systems I need in my o
 * 📚 [**Alfred**](https://brianzodd.com/work/alfred/) — A lifelong second brain in plain markdown: the external memory of what I know, believe, own, and plan — filed, interviewed, and challenged by an AI agent, with the reasoning behind every change kept in git. Obsidian-browsable; the files are the product.
 
 ## Apps & Platforms
+
+* 🏛️ [**Crucible**](https://usecrucible.app) — A habits-and-accountability app: *"get your life together" with the structure of a video game and the aesthetic of Greco-Roman discipline.* A 91-day program of daily trials (sleep, training, reading, meditation…), streaks, XP, levels, achievements, and a champion you forge over time. React Native (Expo) + Supabase, Android + iOS. **In development.**
 
 * 🥗 [**Avalon**](https://brianzodd.com/work/avalon/) — A health-first nutrition tracker: micronutrient-deep tracking, an ingredient-quality lens, and AI-native logging (voice, barcode, meal templates). Mobile-first PWA with a native future. TypeScript + Supabase.
 
